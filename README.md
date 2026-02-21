@@ -1,109 +1,109 @@
-📘 Gap2Grow – ECE Skill Gap Career Roadmap
+# 📘 Gap2Grow – ECE Skill Gap Career Roadmap
 
-🚀 Overview
+## 🚀 Overview
 
-Gap2Grow is an interactive web application designed for Electronics and Communication Engineering (ECE) students to analyze their current skills and generate a personalized roadmap to achieve their dream job and company.
+**Gap2Grow** is an interactive web application designed for **Electronics and Communication Engineering (ECE) students** to analyze their current skills and generate a **personalized career roadmap** to achieve their dream job and company.
 
-The platform compares user skills with industry expectations and provides a step-by-step learning path to bridge the skill gap.
+The platform compares user skills with industry expectations and provides a **step-by-step learning path** to bridge the skill gap.
 
-🔗 Live Demo:
+🔗 **Live Demo:**  
 https://6998eaec438edfc93ce6870b--courageous-sherbet-40a017.netlify.app/
 
-🎯 Problem Statement
+---
+
+## 🎯 Problem Statement
 
 ECE students often struggle to:
 
-Identify required skills for specific job roles
+- Identify required skills for specific job roles  
+- Understand company expectations  
+- Know what to learn next  
+- Plan a structured preparation path  
 
-Understand company expectations
+**Gap2Grow** solves this by mapping:
 
-Know what to learn next
+> Current Skills → Industry Requirements → Personalized Roadmap
 
-Plan a structured preparation path
+---
 
-Gap2Grow solves this by mapping current skills → role requirements → roadmap.
-
-💡 Solution
+## 💡 Solution
 
 Gap2Grow provides:
 
-✅ Dream job selection
-✅ Dream company selection
-✅ Current skill input
-✅ Skill comparison logic
-✅ Personalized roadmap generation
-✅ Guided step-by-step workflow
+- Dream job selection  
+- Dream company selection  
+- Current skill input  
+- Skill gap analysis  
+- Personalized roadmap generation  
+- Guided step-by-step workflow  
 
-The app collects user details and generates a roadmap after validating inputs across multiple steps.
+---
 
-🧭 How It Works
+## 🧭 How It Works
 
-1️⃣ Enter your Name
-2️⃣ Choose your Dream Job Role
-3️⃣ Select your Dream Company
-4️⃣ Add your Existing Skills (optional)
-5️⃣ Click Generate Roadmap
+1. Enter your **Name**
+2. Choose your **Dream Job Role**
+3. Select your **Dream Company**
+4. Add your **Existing Skills**
+5. Click **Generate Roadmap**
 
 The system then:
 
-Matches your skills with industry expectations
+- Matches your skills with industry expectations  
+- Identifies missing skills  
+- Suggests a structured learning roadmap  
 
-Identifies missing skills
+---
 
-Suggests a learning path
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+- **HTML** – Structure  
+- **CSS** – Styling  
+- **JavaScript** – Logic & roadmap generation  
+- **Netlify** – Deployment  
 
-HTML – Page structure
+---
 
-CSS – Styling and UI design
+## ✨ Features
 
-JavaScript – Logic and roadmap generation
+- 🎓 ECE-focused career guidance  
+- 📊 Skill gap analysis  
+- 🧠 Smart roadmap generation  
+- 🖥️ Clean interactive UI  
+- ⚡ Lightweight and fast  
 
-Netlify – Deployment & hosting
+---
 
-✨ Features
 
-🎓 ECE-focused career guidance
+---
 
-📊 Skill gap analysis
+## 🌱 Future Improvements
 
-🧠 Smart roadmap generation
+- 🔐 User login & saved progress  
+- 🤖 AI-powered skill suggestions  
+- 📄 Resume & portfolio builder  
+- 🏢 More companies and job roles  
+- 📊 Progress tracking dashboard  
 
-🖥️ Clean interactive UI
+---
 
-⚡ Lightweight and fast
+## 👩‍💻 Team – MindSpark
 
-📂 Project Structure (example)
-Gap2Grow/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│── README.md
-🌱 Future Improvements
+- **Ashbi Biju**  
+- **Hana Nazar**  
 
-🔐 User login & saved progress
+College of Engineering, Kalloopara
 
-🤖 AI-powered skill suggestions
+---
 
-📈 Resume & portfolio builder
+## 📜 Inspiration
 
-🏢 More companies and job roles
+> “Yesterday is history, tomorrow is a mystery, but today is a gift.”  
+> — Master Oogway, *Kung Fu Panda*
 
-📊 Progress tracking dashboard
+---
 
-👩‍💻 Team
+## ⭐ Support
 
-MindSpark
+If you like this project, consider giving it a **star ⭐ on GitHub**.
 
-Ashbi Biju – College of Engineering, Kalloopara
-
-Hana Nazar – College of Engineering, Kalloopara
-
-📜 Inspiration
-
-“Yesterday is history, tomorrow is a mystery, but today is a gift.”
-— Master Oogway, Kung Fu Panda
-
-Start building your future today with Gap2Grow 🚀
